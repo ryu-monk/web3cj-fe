@@ -1,5 +1,5 @@
 {
-  "name": "w3cj-next",
+  "name": "web3cj-fe",
   "private": true,
   "scripts": {
     "dev": "next dev",
